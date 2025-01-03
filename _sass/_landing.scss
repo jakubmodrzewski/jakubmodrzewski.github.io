@@ -26,3 +26,22 @@
   object-fit: cover;
   object-position: center;
 }
+
+/* Kontener dla obrazu tła */
+.background-image-container {
+  position: fixed; /* Obraz pozostaje w miejscu podczas przewijania */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -5; /* Tło jest za innymi elementami */
+  overflow: hidden; /* Ukrywa nadmiar */
+}
+
+/* Styl dla obrazu */
+.background-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Dostosowanie obrazu do kontenera */
+  opacity: 0.2;
+}
