@@ -1,9 +1,6 @@
 ### Site Settings ###
 title               : Jakub Modrzewski
-description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+description         : "GIS🌍 & Unreal Engine🎮 Developer\nPhD student on Digital Twins🏙️ field\nFanboy of 3D Geospatial Data🧊"
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : jakubmodrzewski/jakubmodrzewski.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 # remote_theme        : yousinix/portfolYOU
