@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
+- name: GIS software (QGIS • ArcGIS Pro + ArcPy)
+  percentage: 100
+  color: secondary
 
-- name: Adobe Illustrator
+- name: SQL • PostgreSQL • PostGIS
   percentage: 90
-  color: success
+  color: secondary
+
+- name: "Procedural 3D Modeling\n(CityEngine • Unreal Engine)"
+  percentage: 90
+  color: secondary

@@ -1,11 +1,16 @@
-- name: HTML5/CSS3
-  percentage: 90
+- name: "Python with Geospatial packages\n(GDAL/OGR•Shapely•GeoPandas•Open3D)"
+  percentage: 100
   color: danger
+- name: Unreal Engine  (Blueprints • C++)
+  percentage: 90
+  color: success
 
-- name: Go
+- name: "C++ with libraries: CGAL • GDAL • PROJ"
   percentage: 80
-  color:
-
-- name: Python
-  percentage: 70
+  color: 
+- name: "JS and creating interactive maps (Leaflet)"
+  percentage: 80
+  color: info
+- name: REST APIs (Python • FastAPI)
+  percentage: 80
   color: secondary
