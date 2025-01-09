@@ -8,7 +8,7 @@
 - name: "C++ with libraries: CGAL • GDAL • PROJ"
   percentage: 80
   color: 
-- name: "JS and creating interactive maps (Leaflet)"
+- name: "Javascript and creating interactive maps (LeafletJS)"
   percentage: 80
   color: info
 - name: REST APIs (Python • FastAPI)

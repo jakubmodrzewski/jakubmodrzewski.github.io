@@ -1,17 +1,71 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: | 
+          Researcher and Programmer in R&D projects, Warsaw University of Technology
+  from: 2022
+  to: 2024
+  description: |
+    I am member of 
+    <a href="https://repo.pw.edu.pl/info/team/WUT1204b58467c84ac3ab6585add18fcec3?r=publication&ps=20&tab=&lang=en&title=UAV+GeoLab+Team&pn=1&cid=47586" style="color: orange"> UAV Geolab </a> Research Team.
+    I was a contractor (mainly as a programmer) in the following research and development projects: <br>
+    
+    <p style="color: #00fff7">
+    <a href="https://www.zftisip.gik.pw.edu.pl/index.php/Realizowane-projekty-badawcze/MAST" style="font-weight: italic; color: #00fff7">
+    • MAST  - Digital twin of mast objects as an innovative inventory service using unmanned aerial vehicles and artificial intelligence.</a> <br>
+     <span style="text-decoration: underline;">My Tech-Stack</span>: Unreal Engine 5, Cesium For Unreal, C++, Speckle, Leaflet, Docker</p>
+
+    <p style="color: yellow">
+    <a href="https://www.zftisip.gik.pw.edu.pl/index.php/Realizowane-projekty-badawcze/MA-P-Maloutena-i-Agora-w-planie-urbanistycznym-Pafos-Modelowanie-miejskiego-krajobrazu-stolicy-hellenistycznego-i-rzymskiego-Cypru" style="color: yellow;font-style: italic; ">
+    • MA-P Maloutena and Agora in the Urban Plan of Paphos: Modeling the Urban Landscape of the Capital of Hellenistic and Roman Cyprus.</a>  <br>
+     <span style="text-decoration: underline;">My Tech-Stack</span>: ESRI CityEngine, Unreal Engine, Python, FastAPI, PostgreSQL, Docker, Leaflet, GDAL/OGR </p>
+
+    <p style="color: #59ff00">
+    <a href="https://www.gik.pw.edu.pl/zftisip/Aktualnosci/Nasz-wklad-w-rozwoj-oprogramowania-LiMON-UAV" style="color: #59ff00;font-style: italic; ">
+    • Development of an improved product – LiMON UAV – Software for processing point clouds. </a> <br>
+    <span style="text-decoration: underline;">My Tech-Stack</span>: C++, GDAL/OGR, PROJ, Python, Pandas, Docker</p>
+
+    I also worked for the  
+    <a href="https://3dgeolab.pl/" style="color: orange">3DGeoLAB</a> –  spin-off company of the Warsaw University of Technology. <br>
+    I was involved in developing Digital Twin 3D applications for cities.<br> 
+    I was also implementing functions for: <br>
+    • geometry processing of 3D city models (e.g. remove holes and intersected triangles), <br>
+    • conversion geospatial data to 3D formats (e.g. conversion DEM rasters do 3D mesh models).<br>
+    <span style="text-decoration: underline;">My Tech-Stack</span>: Unreal Engine, C++, CGAL, Blender Python API
+
+- title: | 
+          GIS Programmer, 
+          <a href="https://www.iiip.com.pl/" style="color: orange">Insytut Informacji Przestrzennej</a>
+  from: 2019
+  to: 2024
+  description: |
+                I was involved in implementing GIS applications for Geospatial Data Analysis and Geospatial Data Automation (automation of database feeding and updating based on web services). <br>
+                I also was building application with REST API to dynamically creating legends in accordance with cartographic guidelines.<br>
+                <span style="text-decoration: underline;">My Tech-Stack</span>: Python, PostgreSQL, psycopg2, FastAPI, Pillow, OpenStreetMap, GDAL/OGR Python API
+
+
+- title: | 
+         Software Developer for Document Automation, 
+          <a href="https://grupamowa.pl/akademia/" style="color: orange">Grupa Mowa</a>
+  from: 2020
+  to: 2021
+  description: |
+                I was involved in programming MacOS applications for processing, automation of formatting and correcting text of scientific articles.<br>
+                <span style="text-decoration: underline;">My Tech-Stack</span>: Python, AppleScript, Visual Basic
+
+
+- title: PhD Student, Warsaw University of Technology
+  from: 2024
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: | 
+            <b>PhD Field</b>: 
+            <i>Implementation of a city’s Digital Twin for integrating urban data from various databases, APIs, sensors (2D/3D, IoT data). </i>
+            <a href="https://repo.pw.edu.pl/info/author/WUTbb5b0418f4c0453ca7d65d60250cfc9e/" style="color: orange"> See my publications. </a>
+
+
+- title: Student, Warsaw University of Technology
+  from: 2019
+  to: 2024
+  description: | 
+                BSc in Geoinformatics | Msc under the "Studia id" program – individualized form of study organization for the most talented students<br><br>
+
+                BSc Thesis topic: <a style="color: orange">"Using 3D mesh model and Unreal Engine technology to build a Digital Twin of a city"</a> <br>
+                Msc Thesis topic: <a style="color: orange">"Procedural modeling of urban environment for visualization and simulation in archeology"</a>
