@@ -29,5 +29,6 @@
 
 .bg-themed {
   @include themed(background-color, $light, $dark);
+  
 }
 

@@ -3,7 +3,7 @@ const THEME_ATTR  = "data-theme";
 const QUERY_KEY   = "(prefers-color-scheme: dark)";
 
 const themes = {
-  LIGHT: "light",
+  // LIGHT: "light",
   DARK: "dark",
 };
 
