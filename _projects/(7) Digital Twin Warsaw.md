@@ -1,7 +1,7 @@
 ---
 name: Digital Twin for Warsaw's Old Town 
 tools: [3D City Model, Data Integration, Unreal Engine, ESRI CityEngine, Cesium, ]
-image: /assets/img/tinified/staremiasto-attr.png
+image: /assets/img/tinified/staremiasto-attr.PNG
 description:  |
         I have examined the capabilities of Unreal Engine 5, including Nanite, for effective rendering large-scale 3D city model that was obtained using photogrammetric techniques. The key thing was also integration of two types of 3D models: mentioned mesh model and semantic city model generated procedurally based on two-dimensional spatial data, and finally taking advantage of both of them.
 external_url: https://www.linkedin.com/feed/update/urn:li:activity:7037179778088517632/
