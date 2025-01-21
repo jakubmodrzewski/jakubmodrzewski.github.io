@@ -21,5 +21,9 @@ What's more, I have experience creating 3D models using procedural modeling tech
 </div>
 
 <div class="row">
+  {% include elements/button.html style="warning" text="Download CV as PDF" link="/assets/documents/JakubModrzewski_CV.pdf" %}
+</div>
+
+<div class="row">
 {% include about/timeline.html %}
 </div>
